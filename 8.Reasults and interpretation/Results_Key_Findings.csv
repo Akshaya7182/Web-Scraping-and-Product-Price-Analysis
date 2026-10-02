@@ -1,0 +1,13 @@
+Topic,Finding
+Price level,Median selling price is Rs 39990 (average Rs 43103). Prices range from Rs 24990 to Rs 128800.
+Discounts,Verified discounts exist for 423 listings: average 29.1%.
+Brand pricing,Mitsubishi is the priciest brand on average (Rs 66200); Vestar is the cheapest (Rs 32481).
+Brand presence,Other has the most listings (103 of 652).
+Tonnage,1.5 ton is the most common capacity (54% of listings). 
+Price vs tonnage,Correlation r = 0.67: bigger capacity generally costs more.
+Energy rating,3-star models are the most common (60% of listings). 
+Star premium,5-star models average Rs 46016 vs Rs 40769 for 3-star.
+Price vs rating,Correlation r = -0.05: a higher price does not guarantee a better customer rating.
+Technology,68% of listings are inverter ACs and 8% mention Wi-Fi.
+Wi-Fi premium,Wi-Fi models average Rs 45172 vs Rs 42892 without Wi-Fi.
+Cheapest per ton,Mitsubishi 6.0 ton gives the lowest price per ton: Rs 11317.
