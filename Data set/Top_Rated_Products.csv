@@ -1,0 +1,11 @@
+name,brand,tonnage,energy_star,ratings,no_of_ratings,discount_price,actual_price,discount_percent
+"Blue Star 1 Ton 3 Star,New Star rated,Inverter Split AC (Copper, Convertible 5 in 1 Cooling, DigiQ Hepta Sensor,Blue Fins, Self Diagnosis, IA312ZXU, White)",Blue Star,1.0,3.0,4.5,178.0,32490.0,49000.0,33.69387755102041
+"IFB 0.95 Ton 3 Star 2026 AI Powered Inverter Split Air Conditioner with Hybrid Mode, 8-in-1 Flexi Mode, Heavy Duty Compressor, Long Air Throw, Self Clean, Copper Condenser (CI133SL11RGM3,White)",IFB,0.95,3.0,4.4,200.0,30990.0,50990.0,39.223377132771134
+"Samsung 1 Ton 3 Star,New Star rated Bespoke AI Inverter Smart Split AC (WiFi, Energy Saving, Voice Control, Powerful Cooling, Copper, Digital Inverter, 4 Way swing, white, AR50H12D1LHNNA)",Samsung,1.0,3.0,4.3,183.0,32490.0,67990.0,52.21356081776732
+"Cruise 1 Ton 3 Star VarioQool Inverter Split AC (2026, CWCVBM-VQ1D123)",Cruise,1.0,3.0,4.2,298.0,26990.0,43900.0,38.51936218678815
+"IFB 1.5 Ton 3 Star, New star rated,AI Powered Inverter Split AC,Inbuilt WiFi, Hybrid Mode, 8-in-1 Flexi Mode, Heavy Duty Compressor, Long Air Throw, Self Clean, 100% Copper,CI183SS22SGM3, White",IFB,1.5,3.0,4.2,124.0,36490.0,61490.0,40.65701740120345
+"Hitachi Smart Choice 1.5 Ton 3 Star, New Star rated, Inverter Split AC(Copper, Smart View Display, 4 Way Swing,RAS.D318PCD2BS1, White)",Hitachi,1.5,3.0,4.1,478.0,36500.0,63990.0,42.95983747460541
+"Hitachi Smart Choice 1.5 Ton 5 Star, New Star rated, Inverter Split AC (Copper, Smart View Display, 4 Way Swing, ice Clean, Anti-bacterial Filter,RAS.V518PCDIBT, White)",Hitachi,1.5,5.0,4.1,260.0,44999.0,77990.0,42.30157712527247
+"Hitachi Smart Choice 1 Ton 3 Star, New Star rated, Inverter Split AC (Copper, 4 Way Swing, ice Clean, EEV Precision- Higher Performance Cooling, RAS.G312PCDIBS, White)",Hitachi,1.0,3.0,4.1,219.0,31500.0,35740.0,11.863458310016789
+"Daikin 1.5 Ton 5 Star Inverter Split AC (Copper, PM2.5 Filter, MTKM50XV16, White)",Daikin,1.5,5.0,4.1,218.0,48990.0,68200.0,28.167155425219946
+"Carrier 1.5 Ton 3 Star Wi-Fi Smart Flexicool Inverter Split AC (Copper, Convertible 6-in-1 with Wi-Fi with Geo-Fencing, Smart Energy Display, 2026 Model, ESTER EDGE Gxi WiFi-CAI18EE3R36W1, White)",Carrier,1.5,3.0,4.1,216.0,,,
